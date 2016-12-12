@@ -16,11 +16,11 @@ In the report, you can find my comments and my results for this implementation.
 
 ## Dataset
 
-Movie review dataset[1] contains positive and negative reviews with a rating score (a negative review has a score smaller than or equal to 4 out of 10, while a positive review has a score bigger than or equal to 7 out of 10). You will try to implement Naive Bayes algorithm to predict the sentiment of the movie review.
+Movie review dataset**[1]** contains positive and negative reviews with a rating score (a negative review has a score smaller than or equal to 4 out of 10, while a positive review has a score bigger than or equal to 7 out of 10). You will try to implement Naive Bayes algorithm to predict the sentiment of the movie review.
 
 - It contains 50,000 classified reviews as a text file in separate folders (25,000 for training and 25,000 for validation).
 - Both of the training and validation sets include 12,500 positive reviews and 12,500 negative reviews). Each text file’s name includes their id and rating (id rating.txt).
-- You can download the dataset from ftp://ftp.cs.hacettepe.edu.tr/pub/dersler/ BBM4XX/BBM409_ML/Assignment_2/MRDataset.zip.
+- You can download the dataset from ftp://ftp.cs.hacettepe.edu.tr/pub/dersler/BBM4XX/BBM409_ML/Assignment_2/MRDataset.zip.
 
 ### References
 
