@@ -1,4 +1,4 @@
-# Predicting-Reviews-Attitude
+# Predicting Reviews Attitude
 Predicting reviews attitude using Bag of Words and Naive Bayes with Python
 
 In this project, I implemented an algorithm using python to predict if the given review is positive or negative. I used "Bag of words" method to get the frequency of the words and Naive Bayes to determine the class.
